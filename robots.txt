@@ -1,0 +1,11 @@
+# https://josuamarcelc.pages.dev/ — robots.txt
+User-agent: *
+Allow: /
+
+# Explicitly welcome the major crawlers
+User-agent: Googlebot
+Allow: /
+User-agent: Bingbot
+Allow: /
+
+Sitemap: https://josuamarcelc.pages.dev/sitemap.xml
